@@ -1,0 +1,3 @@
+## pagination from reference
+ https://www.positronx.io/angular-server-side-pagination-with-ngx-pagination-example/
+ https://github.com/michaelbromley/ngx-pagination --active
